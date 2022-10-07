@@ -2,8 +2,6 @@
 <br>
  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e478zryl449gv7orid6tizvr1suercnmtgsm87ecfvu&rid=200w.webp&ct=g" width="600" height="400">
 </br>
-
-- 👋 Hi, I’m @ayushi-ras
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me rayushi142@gmail.com
