@@ -1,6 +1,6 @@
 ### He I'm Ayushi Rastogi👋
 <br>
- <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e478zryl449gv7orid6tizvr1suercnmtgsm87ecfvu&rid=200w.webp&ct=g" width="500" height="400">
+ <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e478zryl449gv7orid6tizvr1suercnmtgsm87ecfvu&rid=200w.webp&ct=g" width="100%" height="400">
 </br>
 
 - 👋 Hi, I’m @ayushi-ras
@@ -18,4 +18,4 @@
 
 <img align="left" alt="ayushi-ras Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushi-ras&show_icons=true&hide_border=true" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-rasa&layout=compact)](https://github.com/ayushi-ras/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-ras&layout=compact)](https://github.com/ayushi-ras/github-readme-stats)
