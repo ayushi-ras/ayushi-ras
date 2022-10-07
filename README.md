@@ -1,6 +1,6 @@
 ### He I'm Ayushi Rastogi👋
 <br>
- <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e478zryl449gv7orid6tizvr1suercnmtgsm87ecfvu&rid=200w.webp&ct=g" width="100%" height="400">
+ <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e478zryl449gv7orid6tizvr1suercnmtgsm87ecfvu&rid=200w.webp&ct=g" width="600" height="400">
 </br>
 
 - 👋 Hi, I’m @ayushi-ras
