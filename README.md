@@ -1,4 +1,4 @@
-### He I'm Ayushi Rastogi👋
+### Hello I'm Ayushi Rastogi👋
 <br>
  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e478zryl449gv7orid6tizvr1suercnmtgsm87ecfvu&rid=200w.webp&ct=g" height= 200>
 </br>
