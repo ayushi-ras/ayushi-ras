@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-ras&layout=compact)](https://github.com/ayushi-ras/github-readme-stats)
 
-[![@ayushirastogi9191's Holopin board](https://holopin.me/ayushirastogi9191)](https://holopin.io/@ayushirastogi9191)
+[![@ayushirastogi9191's Holopin board](https://holopin.me/ayushirastogi9191)](https://holopin.io/@ayushirastogi9191
