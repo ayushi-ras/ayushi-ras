@@ -20,3 +20,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-ras&layout=compact)](https://github.com/ayushi-ras/github-readme-stats)
 
 [![@ayushirastogi9191's Holopin board](https://holopin.me/ayushirastogi9191)](https://holopin.io/@ayushirastogi9191
+
+<a href="https://quine.sh/profile/ayu181"><img src="https://stats.quine.sh/ayu181/github" alt="ayu181's GitHub stats" width="840px"></a>
