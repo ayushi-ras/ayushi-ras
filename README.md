@@ -17,7 +17,7 @@
 
 <img align="left" alt="ayushi-ras Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushi-ras&show_icons=true&hide_border=true" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-ras&layout=compact)](https://github.com/ayushi-ras/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushi-ras&layout=compact)](https://github.com/ayushi-ras/github-readme-stats)
 
 [![@ayushirastogi9191's Holopin board](https://holopin.me/ayushirastogi9191)](https://holopin.io/@ayushirastogi9191
 
